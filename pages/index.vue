@@ -26,7 +26,7 @@ export default {
       answer:0, 
       //チャレンジした回数
       count:0,
-      //プレイヤーが入力した数
+      
       num:0,
       //ヒント
       comment:'',
