@@ -53,7 +53,7 @@ export default {
         if (this.count < 4 ) {
           console.log('good');
           this.image = pose_aseru  
-        } else if ( this.count > 9 ) {
+        } else if ( this.count < 9 ) {
           console.log('soso');
           this.image = quiz_maru
         } else {
